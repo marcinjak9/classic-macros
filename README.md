@@ -3,4 +3,4 @@
 Some of useful macros made for Classic Wow
 
 # Clases
-* ### [Warrior](classes/warrior-macros)
+* ### [Warrior](classes/warrior-macros.md)
